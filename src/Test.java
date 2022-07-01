@@ -98,7 +98,7 @@ class BackwardsIntegerComparators implements Comparator<Integer> {
     }
 }
  */
-
+/*
 class Person {
     private int id;
     private String name;
@@ -120,3 +120,4 @@ class Person {
                 '}';
     }
 }
+ */
